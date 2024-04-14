@@ -21,3 +21,15 @@ UndoTaskManager is a console application designed to manage tasks with the abili
 1. Clone the repository:
    ```bash
    git clone https://github.com/andersonbytech/UndoTaskManager.git
+
+
+## Usage
+
+After starting the application, follow the on-screen instructions. You can perform the following actions:
+
+- Type `A` to add a new task and then enter the description of the task when prompted.
+- Type `R` to remove a task and then specify the task to be removed when prompted.
+- Type `U` to undo the most recent action.
+- Type `D` to redo an undone action.
+- Type `S` to display all current tasks.
+- Type `E` to exit the application.  
